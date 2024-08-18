@@ -64,7 +64,16 @@ print("RMSE : ",rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+## Contents in the data file (head, tail):
+![358854172-3ad5ed58-0065-4e57-9a00-024277758f05](https://github.com/user-attachments/assets/4b5d0b04-73b7-405d-8802-98874e368f01)
+## X and Y datasets from original dataset:
+![358854194-000a0ee0-b2aa-4398-a56b-75c2095bc241](https://github.com/user-attachments/assets/36491569-71fc-436e-82eb-6769799fbf48)
+## Predicted and Test values of Y:
+![358854208-d2a852a2-8402-49fd-ac25-935769facc36](https://github.com/user-attachments/assets/5e2191dd-800d-4674-98f6-c1ac553f6bc7)
+## Graph for Training Data:
+![358854230-f13752f3-ad2b-4ccd-9d2c-6d4e342aae48](https://github.com/user-attachments/assets/f9a59243-d7f3-43ec-98b1-71e45947a928)
+## Graph for Test Data:
+![358854264-95215c63-fb67-4242-b281-02188acde5e9](https://github.com/user-attachments/assets/7f870661-7dca-4098-a646-4eefa380b196)
 
 
 ## Result:
